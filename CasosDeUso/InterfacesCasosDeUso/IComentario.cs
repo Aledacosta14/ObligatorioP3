@@ -1,6 +1,6 @@
 namespace CasosDeUso;
 
-public interface IAltaAgencia
+public interface IComentario
 {
     
 }
